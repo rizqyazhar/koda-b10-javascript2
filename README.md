@@ -4,4 +4,4 @@
 
 Membuat program untuk mengetes apakah output sama dengan pengaksesan array dan object yang diinginkan
 
-Langkah pengerjaannya adalah membuat nested object didalam variabel sampai ketika mengakses array atau object dari soal yang diminta output yang dihasilkan sama
+Langkah pengerjaannya adalah membuat nested object didalam variabel sesuai yang dibutuhkan sampai ketika mengakses array atau object dari soal yang diminta output yang dihasilkan sama
