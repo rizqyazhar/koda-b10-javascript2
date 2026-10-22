@@ -21,14 +21,33 @@ const obj = {
         "",
         "",
         {
-          man: [{ tech: { academy: "Tech Academy" } }],
+          man: [
+            {
+              tech: {
+                academy: "Tech Academy",
+              },
+            },
+          ],
         },
       ],
     ],
   ],
 };
 
-const my = [{ favourite: ["", "", "", { fruit: { is: "Apple" } }] }];
+const my = [
+  {
+    favourite: [
+      "",
+      "",
+      "",
+      {
+        fruit: {
+          is: "Apple",
+        },
+      },
+    ],
+  },
+];
 
 const num = {
   first: [0, 16],
